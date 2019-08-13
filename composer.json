@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Achang_ChinaInvoice",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "新增发票功能",
+    "authors": [
+    {
+        "name": "achang",
+        "email": "magento@achang.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
